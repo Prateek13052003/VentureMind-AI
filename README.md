@@ -1,5 +1,4 @@
 # IdeaForge: Multi-Agent Startup Incubator
-
 IdeaForge is a Multi-Agent AI system that simulates a startup incubation workflow using collaborative AI agents powered by AutoGen, Ollama, and Qwen 2.5.
 
 The system generates startup ideas, improves business models, critiques weaknesses, optimizes strategies, and produces investor-ready pitches through a structured multi-agent pipeline.

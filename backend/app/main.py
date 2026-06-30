@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from backend.app.api.routes import router
-from backend.app.api.pdf_routes import router as pdf_router
+from app.api.routes import router
+from app.api.pdf_routes import router as pdf_router
 from fastapi.middleware.cors import CORSMiddleware
 
 

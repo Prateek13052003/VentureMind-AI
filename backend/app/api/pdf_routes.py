@@ -2,7 +2,7 @@ import os
 from fastapi import APIRouter
 from fastapi.responses import FileResponse
 
-from backend.app.pdf.pdf_generator import PDFGenerator
+from app.pdf.pdf_generator import PDFGenerator
 
 router = APIRouter()
 

@@ -1,8 +1,7 @@
 from fastapi import APIRouter
-from backend.app.services.groq_service import GroqService
-from backend.app.services.startup_service import StartupService
-from backend.app.schemas.startup import StartupRequest
-
+from app.services.groq_service import GroqService
+from app.services.startup_service import StartupService
+from app.schemas.startup import StartupRequest
 router = APIRouter()
 
 

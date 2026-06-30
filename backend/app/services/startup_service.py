@@ -1,8 +1,8 @@
-from backend.app.agents.idea_generator import IdeaGeneratorAgent
-from backend.app.agents.business_strategist import BusinessStrategistAgent
-from backend.app.agents.startup_critic import StartupCriticAgent
-from backend.app.agents.business_optimizer import BusinessOptimizerAgent
-from backend.app.agents.investor_pitch import InvestorPitchAgent
+from app.agents.idea_generator import IdeaGeneratorAgent
+from app.agents.business_strategist import BusinessStrategistAgent
+from app.agents.startup_critic import StartupCriticAgent
+from app.agents.business_optimizer import BusinessOptimizerAgent
+from app.agents.investor_pitch import InvestorPitchAgent
 
 
 class StartupService:
